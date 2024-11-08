@@ -38,7 +38,7 @@ namespace libreria_RBL
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "libreria_RBL", Version = "v1" });
             });
         }
-
+        // kiki
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
